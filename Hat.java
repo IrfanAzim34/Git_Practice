@@ -6,6 +6,8 @@ public class Hat {
 
         // i don't what i can adding
 
+        // maybe we can add third line
+
     }
 
 }

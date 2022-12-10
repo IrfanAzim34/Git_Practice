@@ -4,6 +4,8 @@ public class Store {
 
         // this is the Store class
 
+        // today will be a great day
+
     }
 
 }

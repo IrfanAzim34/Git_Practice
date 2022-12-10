@@ -4,6 +4,8 @@ public class Hat {
 
         // this is Hat class
 
+        // i don't what i can adding
+
     }
 
 }
